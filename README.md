@@ -16,7 +16,7 @@
 # Mobile view of Dashboard
 
 <p align="center">
-<img src="https://github.com/devsingh-code/HR-Dashboard-Power-BI-Case-Study/blob/main/mobile_hr_dashboard.png">
+<img src="https://github.com/devsingh-code/HR-Dashboard-Power-BI-Case-Study/blob/main/mobile_hr_dashboard.png" width="200" height="400">
 </p>
 
 
