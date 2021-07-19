@@ -7,6 +7,11 @@
 - Area wise /State Wise visualization of Employees headcount
 - Single card value representing Head counts based on gender and Attrition percentage
 
+### Custom Teal Theme
+<p align="left">
+<a href="https://github.com/devsingh-code/HR-Dashboard-Power-BI-Case-Study/blob/main/Teal%20Dark%20Theme.json">Download</a>
+</p>
+
 # Dashboard
 
 <p align="center">
@@ -21,8 +26,4 @@
 
 
 
-# Custom Teal Theme
 
-<p align="center">
-<a href="https://github.com/devsingh-code/HR-Dashboard-Power-BI-Case-Study/blob/main/Teal%20Dark%20Theme.json">Download</a>
-</p>
